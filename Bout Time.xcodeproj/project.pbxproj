@@ -64,6 +64,7 @@
 		46228DA4200C24940006BE29 /* Bout Time */ = {
 			isa = PBXGroup;
 			children = (
+				4621639C20251DB100D6277E /* atlEvents.plist */,
 				46228DA5200C24940006BE29 /* AppDelegate.swift */,
 				46228DB7200C275B0006BE29 /* EventProvider.swift */,
 				46DE30E9201795760059A0B3 /* LaunchSreen.swift */,
@@ -71,7 +72,6 @@
 				46DE30ED2017A7030059A0B3 /* DisplayWebContent.swift */,
 				461C37D3201E95130026300B /* DisplaytheEnd.swift */,
 				46228DA9200C24940006BE29 /* Main.storyboard */,
-				4621639C20251DB100D6277E /* atlEvents.plist */,
 				46228DAC200C24940006BE29 /* Assets.xcassets */,
 				46228DB9200CAC6B0006BE29 /* BoutTimeAssets */,
 				46228DB1200C24940006BE29 /* Info.plist */,
